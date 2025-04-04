@@ -1,6 +1,6 @@
 print("Wow, this code is fantastic or not that much!")
 
-class Car(name):
+class Train(name):
 	self.name = name
 
 
